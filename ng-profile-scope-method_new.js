@@ -8,8 +8,8 @@
   where $scope could be determined from element 'my-selector'
 */
 (function profileScopeMethod() {
-  var selector = 'find';
-  var methodName = 'find';
+  var selector = 'Table1';
+  var methodName = 'headerCols';
   var name = selector + ':' + methodName;
 
   /* global angular */
