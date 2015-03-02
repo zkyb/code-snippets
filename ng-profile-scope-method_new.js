@@ -9,7 +9,7 @@
 */
 (function profileScopeMethod() {
   var selector = 'Table1';
-  var methodName = 'bindingValue';
+  var methodName = 'initData';
   var name = selector + ':' + methodName;
 
   /* global angular */
