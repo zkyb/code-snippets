@@ -8,7 +8,7 @@
   where $scope could be determined from element 'my-selector'
 */
 (function profileScopeMethod() {
-  var selector = 'Table1';
+  var selector = 'Button1';
   var methodName = 'initData';
   var name = selector + ':' + methodName;
 
